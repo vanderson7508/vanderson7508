@@ -19,6 +19,9 @@ deploy, com preço fechado por projeto.
 | [Fechou Imóveis](https://fechouimoveis.com.br) | Portal de imóveis rurais com mapa interativo que desenha o terreno a partir do KMZ |
 | Controle Financeiro | App de orçamento doméstico com leitura de faturas por IA, instalável no celular (uso pessoal) |
 
+O código dos projetos de clientes é privado. O código deste portfólio está aberto
+em [portfolio](https://github.com/vanderson7508/portfolio).
+
 Mais detalhes e telas no meu portfólio: **[portfolio-production-2d00.up.railway.app](https://portfolio-production-2d00.up.railway.app)**
 
 ## Stack
